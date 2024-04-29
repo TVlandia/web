@@ -1,0 +1,27 @@
+    
+   [
+    {
+      "song": "cancion_01",
+      "url":"https://storage.googleapis.com/uamp/The_Kyoto_Connection_-_Wake_Up/01_-_Intro_-_The_Way_Of_Waking_Up_feat_Alan_Watts.mp3",
+      "artista":"nombre de cantante",
+      "cover-image":"https://storage.googleapis.com/uamp/Spatial Audio/Shore.jpg"
+    },
+    {
+      "song": "cancion_02",
+      "url":"https://storage.googleapis.com/uamp/The_Kyoto_Connection_-_Wake_Up/01_-_Intro_-_The_Way_Of_Waking_Up_feat_Alan_Watts.mp3",
+      "artista":"nombre de cantante",
+      "cover-image":"https://storage.googleapis.com/uamp/Spatial Audio/Shore.jpg"      
+    },
+    {
+      "song": "cancion_03",
+      "url":"https://storage.googleapis.com/uamp/The_Kyoto_Connection_-_Wake_Up/01_-_Intro_-_The_Way_Of_Waking_Up_feat_Alan_Watts.mp3",
+      "artista":"nombre de cantante",
+      "cover-image":"https://storage.googleapis.com/uamp/Spatial Audio/Shore.jpg"
+    },
+    {
+      "song": "cancion_04",
+      "url":"https://storage.googleapis.com/uamp/The_Kyoto_Connection_-_Wake_Up/01_-_Intro_-_The_Way_Of_Waking_Up_feat_Alan_Watts.mp3",
+      "artista":"nombre de cantante",
+      "cover-image":"https://storage.googleapis.com/uamp/Spatial Audio/Shore.jpg"
+    }
+  ]
